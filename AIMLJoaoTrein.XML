@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+ 
+
+<category>
+ <pattern> O que é AIML </pattern>
+ <template> AIML, é uma linguagem baseada em XML desenvolvida para criar diálogos semelhante a linguagem natural por meio de softwares, simulando assim inteligência humana. Fonte: Wikipedia </template>
+</category>
+
+<category>
+<pattern> Quando surgiu a internet? </pattern>
+<template> A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa. Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história. Essa rede pertencia ao Departamento de Defesa norte-americano. <br/> Para mais informações você pode acessar o site: <a href=" https://www1.folha.uol.com.br/folha/cotidiano/ult95u34809.shtml#:~:text=A%20internet%20foi%20criada%20em,Departamento%20de%20Defesa%20norte%2Damericano" target="_blank"> Internet. </a> </template>
+</category>
+
+<category>    
+<pattern> Qual foi o primeiro site criado? </pattern>
+<template> No dia 20 de dezembro de 1990, o primeiro site a fazer uso do conceito da internet como uma rede de páginas ligadas através de hiperlinks foi ao ar. O endereço http://info.cern.ch/ foi a primeira página da World Wide Web criada por Tim Berners-Lee e até hoje ainda pode ser acessado. <br/> Para mais informações você pode acessar o site: <a href=" https://canaltech.com.br/internet/primeiro-website-do-mundo-completa-25-anos-54957/#:~:text=No%20dia%2020%20de%20dezembro,hoje%20ainda%20pode%20ser%20acessado" target="_blank"> Primeiro site!. </a> </template>
+</category>
+
+<category>
+<pattern> O que são sistemas operacionas </pattern>
+<template> Sistema Operacional. Conceito: É o conjunto de programas que gerenciam recursos, processadores, armazenamento, dispositivos de entrada e saída e dados da máquina e seus periféricos. O Sistema Operacional cria uma plataforma comum a todos os programas utilizados. Exemplos: Dos, Unix, Linux, Mac OS, OS-2, Windows NT. Para mais informações você pode  Acessar o site: <a href="http://www.inf.ufsc.br/~j.barreto/cca/sisop/sisoperac.html" target="_blank"> UFSC </a>
+</template>
+</category>
+
+<category>
+<pattern> Google </pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category> 
+<pattern>o que é Google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category> 
+<pattern>o que e Google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category> 
+<pattern>o que é google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category> 
+<pattern>o que e google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category> 
+<pattern>google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category>
+<pattern> quem é o google </pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category>
+<pattern> quem e o google </pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category>
+<pattern>Quem é o google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category>
+<pattern>Quem e o google</pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category>
+<pattern> Quem é o Google </pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+<category>
+<pattern> Quem e o Google </pattern>
+<template> <srai>Google</srai> </template>
+</category>
+
+
+<category>
+<pattern> Google </pattern>
+<template> O Google, também conhecido como Gigante das Buscas, é uma empresa multinacional que oferece serviços online e softwares para download. A companhia tem um leque grande de produtos, entre eles: o Google Tradutor (Translate), o Google Map (com o recurso Street View) e o Google Earth, o navegador Chrome, a assistente virtual Google Now e o Ok Google, a loja de aplicativos Google Play Store, o Google Acadêmico, Google Docs, Google Fotos, e muitos outros. Entretanto, o mais conhecido e usado o buscador Google.com (para o Brasil, Google.com.br), utilizado por mais de 90% dos usuários de Internet. A ferramenta de pesquisa, muito acessada inclusive por quem busca imagens por conta do Google Imagens, processa mais de um bilhão de solicitações e 20 petabytes de dados todos os dias. Fundada por Larry Page e Sergey Brin em 4 de setembro de 1998. Para mais informações você pode  Acessar o site: <a href="https://www.techtudo.com.br/tudo-sobre/google.html" target="_blank"> Tudo sobre Google. </a> </template> 
+</category>
+
+<category>
+<pattern> Quem criou o primeiro computador? </pattern>
+<template> Embora muitos conceitos de Babbage sejam usados hoje, a formalização dos componentes, o que viria a ser uma máquina de uso geral e novas abstrações só foram consolidadas a partir dos anos 1930, graças ao trabalho de acadêmicos como o húngaro John Von Neumann (1903-1957), um dos desenvolvedores do ENIAC, e do britânico Alan Turing (1912-1954). Para mais informações você pode  Acessar o site: <a href="https://tecnoblog.net/276617/quem-inventou-o-computador/" target="_blank"> Primeiro computador </a> </template> </category>
+
+<category>
+<pattern> Qual foi o primeiro jogo criado </pattern>
+<template> Após inúmeras discussões entre os historiadores, entrou-se em um consenso de que o primeiro jogo da história surgiu em 1958. Segundo Amorin (2006), esse jogo foi criado pelo físico Willy Higinbotham e recebeu o nome de Tennis Programing, também conhecido como Tennis for Two. Para mais informações você pode  Acessar o site: <a href="https://www.google.com/search?q=qual+foi+o+primeiro+jogo+criadooq=qual+foi+o+primeiro+jogo+criadoaqs=chrome.0.0l7j0i22i30l3.8430j0j7sourceid=chromeie=UTF-8" target="_blank"> Primeiro Jogo </a> </template> </category>
+
+<category>
+<pattern> Qual foi a primeira inteligência artificial </pattern>
+<template> Uns desses personagens foi Alan Turing, que descobriu um jeito de fazer seus testes com as máquinas. Seu intuito era realizar avaliações e saber se seria possível em uma conversa por escrito, a máquina se passar por um ser humano. Conhecido como o teste de Turing, esse foi um marco na história da inteligência artificial.
+Estima-se que a história da inteligência artificial se inicia após a Segunda Guerra Mundial, envolvendo diversos cientistas como Alan Turing e os pesquisadores Marvin Minsky, John McCarthy, Allen Newell e Herbert A.
+Dando origem em 1956, a inteligência artificial foi investida com a criação de um campo para estudo da IA. Seu objetivo era desenvolver novas criações, logo a ciência começou a ser reconhecida quando formalizaram um termo na conferência de Dartmouth, com a missão de desenvolver máquinas inteligentes. Para mais informações você pode  Acessar o site: <a href="https://x2inteligencia.digital/2020/02/20/historia-da-inteligencia-artificial/#:~:text=Nascimento%20da%20IAtext=Conhecido%20como%20o%20teste%20de,na%20hist%C3%B3ria%20da%20intelig%C3%AAncia%20artificial.text=Seu%20objetivo%20era%20desenvolver%20novas,miss%C3%A3o%20de%20desenvolver%20m%C3%A1quinas%20inteligentes." target="_blank"> primeira I.A </a> </template> </category>
+
+
+</aiml>
